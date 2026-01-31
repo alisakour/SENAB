@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisakour/SENAB/blob/main/notebooks/SENAB_Experiment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(https://colab.research.google.com/github/alisakour/SENAB/blob/main/notebooks/SENAB.ipynb)](https://colab.research.google.com/drive/17MNBQKT7FRIvc1icj3YrB4YoNxO5Cqjs?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 
