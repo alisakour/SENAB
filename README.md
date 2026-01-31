@@ -83,7 +83,7 @@ Click the **Open in Colab** badge at the top of this page to run the experiment 
 git clone https://github.com/alisakour/SENAB.git
 cd SENAB
 pip install -r requirements.txt
-jupyter notebook notebooks/SENAB_Experiment.ipynb
+jupyter notebook notebooks/SENAB.ipynb
 ```
 
 ---
