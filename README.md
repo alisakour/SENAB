@@ -1,6 +1,6 @@
 # SENAB: Dynamic Contextual Adaptation in LLMs via Neural Cellular Automata Bridges
 <p align="center">
-  <img src="assets/senab_demo.gif" width="80%" />
+  <img src="assets/SENAB_Thinking_Process.gif" width="80%" />
 </p>
 
 <div align="center">
